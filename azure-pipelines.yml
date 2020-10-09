@@ -10,8 +10,7 @@ pr:
     - releases/old*
   drafts: true
 
-pool: 
-  vm-image: "ubuntu-latest"
+pool: 'Default'
 
 steps:
 - script: echo Hello, world!
